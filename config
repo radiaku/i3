@@ -8,7 +8,7 @@ set $ws6 "6: ⌈6 ⌋"
 set $ws7 "7: ⌈7 ⌋"
 set $ws8 "8: ⌈8 ⌋"
 set $mode_system (l)ock, (e)xit, switch_(u)ser, (s)uspend, (h)ibernate, (r)eboot, (Shift+s)hutdown
-set $i3ipc_dir $HOME/.pyenvs/i3ipc
+# set $i3ipc_dir $HOME/.pyenvs/i3ipc
 
 include $HOME/.config/i3/modules/start.conf
 include $HOME/.config/i3/modules/theme.conf
